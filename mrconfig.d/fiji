@@ -40,6 +40,9 @@ checkout = git clone git://github.com/fiji/CPU_Meter
 [code/fiji/Calculator_Plus]
 checkout = git clone git://github.com/fiji/Calculator_Plus
 
+[code/fiji/Cell_Counter]
+checkout = git clone git://github.com/fiji/Cell_Counter
+
 [code/fiji/Colocalisation_Analysis]
 checkout = git clone git://github.com/fiji/Colocalisation_Analysis
 
@@ -285,6 +288,12 @@ checkout = git clone git://github.com/fiji/bij
 
 [code/fiji/cookbook]
 checkout = git clone git://github.com/fiji/cookbook
+
+[code/fiji/dockerfiles]
+checkout = git clone git://github.com/fiji/dockerfiles
+
+[code/fiji/dotfiles]
+checkout = git clone git://github.com/fiji/dotfiles
 
 [code/fiji/fiji]
 checkout = git clone git://github.com/fiji/fiji

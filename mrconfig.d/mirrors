@@ -1,5 +1,5 @@
-[code/maven/mojo]
-checkout = git clone git://fiji.sc/mojo
+[code/mirrors/batik]
+checkout = git clone git://fiji.sc/batik
 
 [code/mirrors/bioimagexd]
 checkout = git clone git://fiji.sc/bioimagexd
@@ -15,3 +15,6 @@ checkout = git clone git://fiji.sc/scripting
 
 [code/mirrors/vaa3d]
 checkout = git clone git://fiji.sc/vaa3d
+
+[code/mirrors/weka]
+checkout = git clone git://fiji.sc/weka
