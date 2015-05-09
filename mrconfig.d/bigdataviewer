@@ -1,0 +1,20 @@
+[code/bdv/Descriptor_based_registration]
+checkout = git clone git://github.com/bigdataviewer/Descriptor_based_registration
+
+[code/bdv/SPIM_Registration]
+checkout = git clone git://github.com/bigdataviewer/SPIM_Registration
+
+[code/bdv/bigdataviewer-core]
+checkout = git clone git://github.com/bigdataviewer/bigdataviewer-core
+
+[code/bdv/bigdataviewer-server]
+checkout = git clone git://github.com/bigdataviewer/bigdataviewer-server
+
+[code/bdv/bigdataviewer_fiji]
+checkout = git clone git://github.com/bigdataviewer/bigdataviewer_fiji
+
+[code/bdv/pom-bigdataviewer]
+checkout = git clone git://github.com/bigdataviewer/pom-bigdataviewer
+
+[code/bdv/spimdata]
+checkout = git clone git://github.com/bigdataviewer/spimdata

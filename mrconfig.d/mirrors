@@ -1,0 +1,17 @@
+[code/maven/mojo]
+checkout = git clone git://fiji.sc/mojo
+
+[code/mirrors/bioimagexd]
+checkout = git clone git://fiji.sc/bioimagexd
+
+[code/mirrors/jhotdraw]
+checkout = git clone git://fiji.sc/jhotdraw
+
+[code/mirrors/mipav]
+checkout = git clone git://fiji.sc/mipav
+
+[code/mirrors/scripting]
+checkout = git clone git://fiji.sc/scripting
+
+[code/mirrors/vaa3d]
+checkout = git clone git://fiji.sc/vaa3d
