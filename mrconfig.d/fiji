@@ -313,6 +313,9 @@ checkout = git clone git://github.com/fiji/fiji-javadoc
 [code/fiji/fiji-lib]
 checkout = git clone git://github.com/fiji/fiji-lib
 
+[code/fiji/h5j_loader-plugin]
+checkout = git clone git://github.com/fiji/h5j_loader-plugin
+
 [code/fiji/imagescience]
 checkout = git clone git://github.com/fiji/imagescience
 
