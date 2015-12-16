@@ -58,6 +58,9 @@ checkout = git clone git://github.com/fiji/CorrectBleach
 [code/fiji/Cross_Fader]
 checkout = git clone git://github.com/fiji/Cross_Fader
 
+[code/fiji/Descriptor_based_registration]
+checkout = git clone git://github.com/bigdataviewer/Descriptor_based_registration
+
 [code/fiji/Dichromacy]
 checkout = git clone git://github.com/fiji/Dichromacy
 
@@ -183,6 +186,9 @@ checkout = git clone git://github.com/fiji/Reconstruct_Reader
 
 [code/fiji/SPIM_Opener]
 checkout = git clone git://github.com/fiji/SPIM_Opener
+
+[code/fiji/SPIM_Registration]
+checkout = git clone git://github.com/bigdataviewer/SPIM_Registration
 
 [code/fiji/Samples]
 checkout = git clone git://github.com/fiji/Samples
