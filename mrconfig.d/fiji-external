@@ -1,11 +1,14 @@
-[code/fiji/ASA]
+[code/fiji-ext/ASA]
 checkout = git clone git://github.com/tferr/ASA
 
-[code/fiji/jitk-tps]
-checkout = git clone git://github.com/saalfeldlab/jitk-tps
-
-[code/fiji/bigwarp]
+[code/fiji-ext/bigwarp]
 checkout = git clone git://github.com/saalfeldlab/bigwarp
 
-[code/fiji/trakem2-tps]
+[code/fiji-ext/jitk-tps]
+checkout = git clone git://github.com/saalfeldlab/jitk-tps
+
+[code/fiji-ext/mpicbg]
+checkout = git clone git://github.com/axtimwalde/mpicbg
+
+[code/fiji-ext/trakem2-tps]
 checkout = git clone git://github.com/saalfeldlab/trakem2-tps
