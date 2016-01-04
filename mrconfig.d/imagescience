@@ -1,14 +1,14 @@
 [code/imagescience/FeatureJ]
-checkout = git clone git://github.com/fiji/FeatureJ
+checkout = git clone git://github.com/imagescience/FeatureJ
 
 [code/imagescience/MTrackJ]
-checkout = git clone git://github.com/fiji/MTrackJ
+checkout = git clone git://github.com/imagescience/MTrackJ
 
 [code/imagescience/RandomJ]
-checkout = git clone git://github.com/fiji/RandomJ
+checkout = git clone git://github.com/imagescience/RandomJ
 
 [code/imagescience/TransformJ]
-checkout = git clone git://github.com/fiji/TransformJ
+checkout = git clone git://github.com/imagescience/TransformJ
 
 [code/imagescience/imagescience]
-checkout = git clone git://github.com/fiji/imagescience
+checkout = git clone git://github.com/imagescience/ImageScience
