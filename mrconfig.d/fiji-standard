@@ -262,35 +262,14 @@ checkout = git clone git://github.com/fiji/bij
 [code/fiji/blockmatching]
 checkout = git clone git://github.com/fiji/blockmatching
 
-[code/fiji/dockerfiles]
-checkout = git clone git://github.com/fiji/dockerfiles
-
-[code/fiji/dotfiles]
-checkout = git clone git://github.com/fiji/dotfiles
-
-[code/fiji/fiji]
-checkout = git clone git://github.com/fiji/fiji
-
-[code/fiji/fiji.github.io]
-checkout = git clone git://github.com/fiji/fiji.github.io
-
 [code/fiji/fiji-compat]
 checkout = git clone git://github.com/fiji/fiji-compat
-
-[code/fiji/fiji-historical]
-checkout = git clone git://fiji.sc/fiji-historical
-
-[code/fiji/fiji-javadoc]
-checkout = git clone git://github.com/fiji/fiji-javadoc
 
 [code/fiji/fiji-lib]
 checkout = git clone git://github.com/fiji/fiji-lib
 
 [code/fiji/H5J_Loader_Plugin]
 checkout = git clone git://github.com/fiji/H5J_Loader_Plugin
-
-[code/fiji/javac]
-checkout = git clone git://github.com/fiji/javac
 
 [code/fiji/legacy-imglib1]
 checkout = git clone git://github.com/fiji/legacy-imglib1
@@ -306,12 +285,6 @@ checkout = git clone git://github.com/fiji/pal-optimization
 
 [code/fiji/panorama]
 checkout = git clone git://github.com/fiji/panorama
-
-[code/fiji/pom-fiji]
-checkout = git clone git://github.com/fiji/pom-fiji
-
-[code/fiji/profilers]
-checkout = git clone git://github.com/fiji/profilers
 
 [code/fiji/register_virtual_stack_slices]
 checkout = git clone git://github.com/fiji/register_virtual_stack_slices
