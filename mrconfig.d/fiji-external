@@ -1,3 +1,6 @@
+# External Fiji projects
+# http://imagej.net/Fiji/Contribution_requirements#External_projects
+
 [code/fiji-ext/ASA]
 checkout = git clone git://github.com/tferr/ASA
 

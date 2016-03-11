@@ -1,3 +1,6 @@
+# Standard Fiji projects
+# http://imagej.net/Fiji/Contribution_requirements#Standard_projects
+
 [code/fiji/3D_Blob_Segmentation]
 checkout = git clone git://github.com/fiji/3D_Blob_Segmentation
 
