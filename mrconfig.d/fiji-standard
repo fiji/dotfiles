@@ -145,9 +145,6 @@ checkout = git clone git://github.com/fiji/MTrack2
 [code/fiji/M_I_P]
 checkout = git clone git://github.com/fiji/M_I_P
 
-[code/fiji/MaMuT]
-checkout = git clone git://github.com/fiji/MaMuT
-
 [code/fiji/Manual_Tracking]
 checkout = git clone git://github.com/fiji/Manual_Tracking
 
@@ -265,9 +262,6 @@ checkout = git clone git://github.com/fiji/bij
 [code/fiji/blockmatching]
 checkout = git clone git://github.com/fiji/blockmatching
 
-[code/fiji/cookbook]
-checkout = git clone git://github.com/fiji/cookbook
-
 [code/fiji/dockerfiles]
 checkout = git clone git://github.com/fiji/dockerfiles
 
@@ -324,3 +318,12 @@ checkout = git clone git://github.com/fiji/register_virtual_stack_slices
 
 [code/fiji/registration_3d]
 checkout = git clone git://github.com/fiji/registration_3d
+
+# Fiji projects on other update sites
+# http://imagej.net/Fiji/Contribution_requirements#Examples
+
+[code/fiji/cookbook]
+checkout = git clone git://github.com/fiji/cookbook
+
+[code/fiji/MaMuT]
+checkout = git clone git://github.com/fiji/MaMuT
