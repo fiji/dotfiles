@@ -1,6 +1,3 @@
-[code/mirrors/batik]
-checkout = git clone git://git.imagej.net/batik
-
 [code/mirrors/bioimagexd]
 checkout = git clone git://git.imagej.net/bioimagexd
 
