@@ -1,20 +1,20 @@
 [code/mirrors/batik]
-checkout = git clone git://fiji.sc/batik
+checkout = git clone git://git.imagej.net/batik
 
 [code/mirrors/bioimagexd]
-checkout = git clone git://fiji.sc/bioimagexd
+checkout = git clone git://git.imagej.net/bioimagexd
 
 [code/mirrors/jhotdraw]
-checkout = git clone git://fiji.sc/jhotdraw
+checkout = git clone git://git.imagej.net/jhotdraw
 
 [code/mirrors/mipav]
-checkout = git clone git://fiji.sc/mipav
+checkout = git clone git://git.imagej.net/mipav
 
 [code/mirrors/scripting]
-checkout = git clone git://fiji.sc/scripting
+checkout = git clone git://git.imagej.net/scripting
 
 [code/mirrors/vaa3d]
-checkout = git clone git://fiji.sc/vaa3d
+checkout = git clone git://git.imagej.net/vaa3d
 
 [code/mirrors/weka]
-checkout = git clone git://fiji.sc/weka
+checkout = git clone git://git.imagej.net/weka
