@@ -1,9 +1,6 @@
 [code/mirrors/bioimagexd]
 checkout = git clone git://git.imagej.net/bioimagexd
 
-[code/mirrors/jhotdraw]
-checkout = git clone git://git.imagej.net/jhotdraw
-
 [code/mirrors/mipav]
 checkout = git clone git://git.imagej.net/mipav
 
