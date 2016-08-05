@@ -15,3 +15,6 @@ checkout = git clone git://github.com/axtimwalde/mpicbg
 
 [code/fiji-ext/trakem2-tps]
 checkout = git clone git://github.com/saalfeldlab/trakem2-tps
+
+[code/fiji-ext/z-spacing]
+checkout = git clone git://github.com/saalfeldlab/z-spacing
