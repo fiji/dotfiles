@@ -13,9 +13,6 @@ checkout = git clone git://github.com/fiji/3D_Viewer
 [code/fiji/AnalyzeSkeleton]
 checkout = git clone git://github.com/fiji/AnalyzeSkeleton
 
-[code/fiji/Analyze_Reader_Writer]
-checkout = git clone git://github.com/fiji/Analyze_Reader_Writer
-
 [code/fiji/Anisotropic_Diffusion_2D]
 checkout = git clone git://github.com/fiji/Anisotropic_Diffusion_2D
 
