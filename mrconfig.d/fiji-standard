@@ -172,9 +172,6 @@ checkout = git clone git://github.com/fiji/SPIM_Registration
 [code/fiji/Samples]
 checkout = git clone git://github.com/fiji/Samples
 
-[code/fiji/Script_Launcher]
-checkout = git clone git://github.com/fiji/Script_Launcher
-
 [code/fiji/Series_Labeler]
 checkout = git clone git://github.com/fiji/Series_Labeler
 
