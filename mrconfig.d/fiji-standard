@@ -55,6 +55,9 @@ checkout = git clone git://github.com/fiji/Colour_Deconvolution
 [code/fiji/CorrectBleach]
 checkout = git clone git://github.com/fiji/CorrectBleach
 
+[code/fiji/Correct_3D_Drift]
+checkout = git clone git://github.com/fiji/Correct_3D_Drift
+
 [code/fiji/Cross_Fader]
 checkout = git clone git://github.com/fiji/Cross_Fader
 
