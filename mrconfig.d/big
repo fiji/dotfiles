@@ -28,5 +28,8 @@ checkout = git clone git://github.com/fiji/UnwarpJ
 [code/big/imageware]
 checkout = git clone git://github.com/fiji/imageware
 
+[code/big/mij]
+checkout = git clone git://github.com/fiji/mij
+
 [code/big/wavelets]
 checkout = git clone git://github.com/fiji/wavelets

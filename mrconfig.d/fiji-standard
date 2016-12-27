@@ -277,9 +277,6 @@ checkout = git clone git://github.com/fiji/legacy-imglib1
 [code/fiji/level_sets]
 checkout = git clone git://github.com/fiji/level_sets
 
-[code/fiji/mij]
-checkout = git clone git://github.com/fiji/mij
-
 [code/fiji/pal-optimization]
 checkout = git clone git://github.com/fiji/pal-optimization
 
