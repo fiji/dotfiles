@@ -4,6 +4,9 @@ checkout = git clone git://github.com/bigdataviewer/bigdataviewer-core
 [code/bdv/bigdataviewer-server]
 checkout = git clone git://github.com/bigdataviewer/bigdataviewer-server
 
+[code/bdv/bigdataviewer-vistools]
+checkout = git clone git://github.com/bigdataviewer/bigdataviewer-vistools
+
 [code/bdv/bigdataviewer_fiji]
 checkout = git clone git://github.com/bigdataviewer/bigdataviewer_fiji
 
