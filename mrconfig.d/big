@@ -1,35 +1,35 @@
 [code/big/Differentials]
-checkout = git clone git://github.com/fiji/Differentials
+checkout = git clone git://github.com/fiji-BIG/Differentials
 
 [code/big/Extended_Depth_Field]
-checkout = git clone git://github.com/fiji/Extended_Depth_Field
+checkout = git clone git://github.com/fiji-BIG/Extended_Depth_Field
 
 [code/big/MosaicJ]
-checkout = git clone git://github.com/fiji/MosaicJ
+checkout = git clone git://github.com/fiji-BIG/MosaicJ
 
 [code/big/PointPicker]
-checkout = git clone git://github.com/fiji/PointPicker
+checkout = git clone git://github.com/fiji-BIG/PointPicker
 
 [code/big/SheppLogan]
-checkout = git clone git://github.com/fiji/SheppLogan
+checkout = git clone git://github.com/fiji-BIG/SheppLogan
 
 [code/big/Snakuscule]
-checkout = git clone git://github.com/fiji/Snakuscule
+checkout = git clone git://github.com/fiji-BIG/Snakuscule
 
 [code/big/StackReg]
-checkout = git clone git://github.com/fiji/StackReg
+checkout = git clone git://github.com/fiji-BIG/StackReg
 
 [code/big/TurboReg]
-checkout = git clone git://github.com/fiji/TurboReg
+checkout = git clone git://github.com/fiji-BIG/TurboReg
 
 [code/big/UnwarpJ]
-checkout = git clone git://github.com/fiji/UnwarpJ
+checkout = git clone git://github.com/fiji-BIG/UnwarpJ
 
 [code/big/imageware]
-checkout = git clone git://github.com/fiji/imageware
+checkout = git clone git://github.com/fiji-BIG/imageware
 
 [code/big/mij]
-checkout = git clone git://github.com/fiji/mij
+checkout = git clone git://github.com/fiji-BIG/mij
 
 [code/big/wavelets]
-checkout = git clone git://github.com/fiji/wavelets
+checkout = git clone git://github.com/fiji-BIG/wavelets
