@@ -295,5 +295,8 @@ checkout = git clone git://github.com/fiji/registration_3d
 [code/fiji/cookbook]
 checkout = git clone git://github.com/fiji/cookbook
 
+[code/fiji/HDF5_Vibez]
+checkout = git clone git://github.com/fiji/HDF5_Vibez
+
 [code/fiji/MaMuT]
 checkout = git clone git://github.com/fiji/MaMuT
