@@ -289,6 +289,9 @@ checkout = git clone git://github.com/fiji/register_virtual_stack_slices
 [code/fiji/registration_3d]
 checkout = git clone git://github.com/fiji/registration_3d
 
+[code/fiji/weave_jy2java]
+checkout = git clone git://github.com/fiji/weave_jy2java
+
 # Fiji projects on other update sites
 # http://imagej.net/Fiji/Contribution_requirements#Examples
 
