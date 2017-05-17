@@ -88,9 +88,6 @@ checkout = git clone git://github.com/fiji/Fiji_Package_Maker
 [code/fiji/Fiji_Plugins]
 checkout = git clone git://github.com/fiji/Fiji_Plugins
 
-[code/fiji/Fiji_Updater]
-checkout = git clone git://github.com/fiji/Fiji_Updater
-
 [code/fiji/FlowJ]
 checkout = git clone git://github.com/fiji/FlowJ
 
