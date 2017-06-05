@@ -10,8 +10,5 @@ checkout = git clone git://github.com/bigdataviewer/bigdataviewer-vistools
 [code/bdv/bigdataviewer_fiji]
 checkout = git clone git://github.com/bigdataviewer/bigdataviewer_fiji
 
-[code/bdv/pom-bigdataviewer]
-checkout = git clone git://github.com/bigdataviewer/pom-bigdataviewer
-
 [code/bdv/spimdata]
 checkout = git clone git://github.com/bigdataviewer/spimdata
