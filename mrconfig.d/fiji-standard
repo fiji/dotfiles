@@ -288,15 +288,3 @@ checkout = git clone git://github.com/fiji/registration_3d
 
 [code/fiji/weave_jy2java]
 checkout = git clone git://github.com/fiji/weave_jy2java
-
-# Fiji projects on other update sites
-# http://imagej.net/Fiji/Contribution_requirements#Examples
-
-[code/fiji/cookbook]
-checkout = git clone git://github.com/fiji/cookbook
-
-[code/fiji/HDF5_Vibez]
-checkout = git clone git://github.com/fiji/HDF5_Vibez
-
-[code/fiji/MaMuT]
-checkout = git clone git://github.com/fiji/MaMuT
