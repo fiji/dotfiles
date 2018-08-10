@@ -259,9 +259,6 @@ checkout = git clone git://github.com/fiji/bij
 [code/fiji/blockmatching]
 checkout = git clone git://github.com/fiji/blockmatching
 
-[code/fiji/fiji-compat]
-checkout = git clone git://github.com/fiji/fiji-compat
-
 [code/fiji/fiji-lib]
 checkout = git clone git://github.com/fiji/fiji-lib
 
