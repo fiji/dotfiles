@@ -97,6 +97,9 @@ checkout = git clone git://github.com/fiji/Graph_Cut
 [code/fiji/Gray_Morphology]
 checkout = git clone git://github.com/fiji/Gray_Morphology
 
+[code/fiji/HDF5_Vibez]
+checkout = git clone git://github.com/fiji/HDF5_Vibez
+
 [code/fiji/Helmholtz_Analysis]
 checkout = git clone git://github.com/fiji/Helmholtz_Analysis
 
