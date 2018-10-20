@@ -22,6 +22,9 @@ checkout = git clone git://github.com/fiji/Archipelago_Plugins
 [code/fiji/Arrow]
 checkout = git clone git://github.com/fiji/Arrow
 
+[code/fiji/Auto_Local_Threshold]
+checkout = git clone git://github.com/fiji/Auto_Local_Threshold
+
 [code/fiji/Auto_Threshold]
 checkout = git clone git://github.com/fiji/Auto_Threshold
 
