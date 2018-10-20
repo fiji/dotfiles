@@ -97,6 +97,9 @@ checkout = git clone git://github.com/fiji/Graph_Cut
 [code/fiji/Gray_Morphology]
 checkout = git clone git://github.com/fiji/Gray_Morphology
 
+[code/fiji/H5J_Loader_Plugin]
+checkout = git clone git://github.com/fiji/H5J_Loader_Plugin
+
 [code/fiji/HDF5_Vibez]
 checkout = git clone git://github.com/fiji/HDF5_Vibez
 
@@ -264,9 +267,6 @@ checkout = git clone git://github.com/fiji/blockmatching
 
 [code/fiji/fiji-lib]
 checkout = git clone git://github.com/fiji/fiji-lib
-
-[code/fiji/H5J_Loader_Plugin]
-checkout = git clone git://github.com/fiji/H5J_Loader_Plugin
 
 [code/fiji/legacy-imglib1]
 checkout = git clone git://github.com/fiji/legacy-imglib1
