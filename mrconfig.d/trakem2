@@ -1,3 +1,6 @@
+# TrakEM2 components
+# https://github.com/trakem2
+
 [code/trakem2/TrakEM2]
 checkout = git clone git://github.com/trakem2/TrakEM2
 

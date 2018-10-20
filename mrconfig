@@ -1,6 +1,6 @@
 # mr configuration file for Fiji projects
 
-# Install myrepos on Mac OS X using Homebrew, or on Debian/Ubuntu using apt.
+# Install myrepos on macOS using Homebrew, or on Ubuntu using apt.
 
 # Reference this file from your toplevel ~/.mrconfig like this:
 # include = cat $CODE_BASE/fiji/dotfiles/mrconfig 2> /dev/null || true

@@ -1,3 +1,6 @@
+# BigDataViewer repositories
+# https://github.com/bigdataviewer
+
 [code/bdv/bigdataviewer-core]
 checkout = git clone git://github.com/bigdataviewer/bigdataviewer-core
 

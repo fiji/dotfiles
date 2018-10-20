@@ -1,4 +1,5 @@
 # Primary and miscellaneous repositories for the Fiji project
+# https://github.com/fiji
 
 [code/fiji/dockerfiles]
 checkout = git clone git://github.com/fiji/dockerfiles
