@@ -1,8 +1,10 @@
 # Fiji components on other update sites
 # https://imagej.net/Fiji/Contribution_requirements#Examples
 
-[code/fiji/cookbook]
-checkout = git clone git://github.com/fiji/cookbook
-
+# https://sites.imagej.net/MaMuT/
 [code/fiji/MaMuT]
 checkout = git clone git://github.com/fiji/MaMuT
+
+# https://sites.imagej.net/Cookbook/
+[code/fiji/cookbook]
+checkout = git clone git://github.com/fiji/cookbook
