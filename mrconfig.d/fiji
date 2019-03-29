@@ -13,5 +13,8 @@ checkout = git clone git://github.com/fiji/fiji
 [code/fiji/fiji.github.io]
 checkout = git clone git://github.com/fiji/fiji.github.io
 
+[code/fiji/fiji-builds]
+checkout = git clone git://github.com/fiji/fiji-builds
+
 [code/fiji/fiji-javadoc]
 checkout = git clone git://github.com/fiji/fiji-javadoc
