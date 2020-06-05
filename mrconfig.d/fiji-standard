@@ -160,6 +160,9 @@ checkout = git clone git://github.com/fiji/Manual_Tracking
 [code/fiji/Multi_Kymograph]
 checkout = git clone git://github.com/fiji/Multi_Kymograph
 
+[code/fiji/OMEVisual]
+checkout = git clone git://github.com/fiji/OMEVisual
+
 [code/fiji/PIV_analyser]
 checkout = git clone git://github.com/fiji/PIV_analyser
 
