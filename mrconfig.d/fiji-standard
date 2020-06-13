@@ -175,6 +175,9 @@ checkout = git clone git://github.com/fiji/RATS
 [code/fiji/Reconstruct_Reader]
 checkout = git clone git://github.com/fiji/Reconstruct_Reader
 
+[code/fiji/SNT]
+checkout = git clone git://github.com/fiji/SNT
+
 [code/fiji/SPIM_Opener]
 checkout = git clone git://github.com/fiji/SPIM_Opener
 
@@ -186,9 +189,6 @@ checkout = git clone git://github.com/fiji/Samples
 
 [code/fiji/Series_Labeler]
 checkout = git clone git://github.com/fiji/Series_Labeler
-
-[code/fiji/Simple_Neurite_Tracer]
-checkout = git clone git://github.com/fiji/Simple_Neurite_Tracer
 
 [code/fiji/Siox_Segmentation]
 checkout = git clone git://github.com/fiji/Siox_Segmentation
