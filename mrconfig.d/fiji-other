@@ -12,3 +12,7 @@ checkout = git clone git://github.com/fiji/pQCT
 # https://sites.imagej.net/Cookbook/
 [code/fiji/cookbook]
 checkout = git clone git://github.com/fiji/cookbook
+
+# https://sites.imagej.net/Liveim/
+[code/fiji/simplified-io]
+checkout = git clone git://github.com/fiji/simplified-io
