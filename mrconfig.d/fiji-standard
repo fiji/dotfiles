@@ -91,6 +91,9 @@ checkout = git clone git://github.com/fiji/Fiji_Package_Maker
 [code/fiji/Fiji_Plugins]
 checkout = git clone git://github.com/fiji/Fiji_Plugins
 
+[code/fiji/FilamentDetector]
+checkout = git clone git://github.com/fiji/FilamentDetector
+
 [code/fiji/FlowJ]
 checkout = git clone git://github.com/fiji/FlowJ
 
@@ -126,6 +129,9 @@ checkout = git clone git://github.com/fiji/Interactive_3D_Surface_Plot
 
 [code/fiji/IsoData_Classifier]
 checkout = git clone git://github.com/fiji/IsoData_Classifier
+
+[code/fiji/Kappa]
+checkout = git clone git://github.com/fiji/Kappa
 
 [code/fiji/Kuwahara_Filter]
 checkout = git clone git://github.com/fiji/Kuwahara_Filter
