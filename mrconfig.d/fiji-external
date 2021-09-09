@@ -4,6 +4,9 @@
 [code/fiji-ext/ASA]
 checkout = git clone git://github.com/tferr/ASA
 
+[code/fiji-ext/SNT]
+checkout = git clone git://github.com/morphonets/SNT
+
 [code/fiji-ext/bigwarp]
 checkout = git clone git://github.com/saalfeldlab/bigwarp
 
