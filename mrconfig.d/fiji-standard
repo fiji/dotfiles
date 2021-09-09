@@ -181,9 +181,6 @@ checkout = git clone git://github.com/fiji/RATS
 [code/fiji/Reconstruct_Reader]
 checkout = git clone git://github.com/fiji/Reconstruct_Reader
 
-[code/fiji/SNT]
-checkout = git clone git://github.com/fiji/SNT
-
 [code/fiji/SPIM_Opener]
 checkout = git clone git://github.com/fiji/SPIM_Opener
 
