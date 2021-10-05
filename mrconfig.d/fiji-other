@@ -20,4 +20,3 @@ checkout = git clone git://github.com/fiji/simplified-io
 # https://sites.imagej.net/TensorFlow/
 [code/fiji/microscope-image-quality]
 checkout = git clone git://github.com/fiji/microscope-image-quality
-
