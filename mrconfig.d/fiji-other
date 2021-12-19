@@ -3,20 +3,20 @@
 
 # https://sites.imagej.net/MaMuT/
 [code/fiji/MaMuT]
-checkout = git clone git://github.com/fiji/MaMuT
+checkout = git clone git@github.com:fiji/MaMuT
 
 # https://sites.imagej.net/PQCT/
 [code/fiji/pQCT]
-checkout = git clone git://github.com/fiji/pQCT
+checkout = git clone git@github.com:fiji/pQCT
 
 # https://sites.imagej.net/Cookbook/
 [code/fiji/cookbook]
-checkout = git clone git://github.com/fiji/cookbook
+checkout = git clone git@github.com:fiji/cookbook
 
 # https://sites.imagej.net/Liveim/
 [code/fiji/simplified-io]
-checkout = git clone git://github.com/fiji/simplified-io
+checkout = git clone git@github.com:fiji/simplified-io
 
 # https://sites.imagej.net/TensorFlow/
 [code/fiji/microscope-image-quality]
-checkout = git clone git://github.com/fiji/microscope-image-quality
+checkout = git clone git@github.com:fiji/microscope-image-quality

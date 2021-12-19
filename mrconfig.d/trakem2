@@ -2,16 +2,16 @@
 # https://github.com/trakem2
 
 [code/trakem2/TrakEM2]
-checkout = git clone git://github.com/trakem2/TrakEM2
+checkout = git clone git@github.com:trakem2/TrakEM2
 
 [code/trakem2/trakem2-transform]
-checkout = git clone git://github.com/trakem2/trakem2-transform
+checkout = git clone git@github.com:trakem2/trakem2-transform
 
 [code/trakem2/VectorString]
-checkout = git clone git://github.com/trakem2/VectorString
+checkout = git clone git@github.com:trakem2/VectorString
 
 [code/trakem2/T2-TreelineGraph]
-checkout = git clone git://github.com/trakem2/T2-TreelineGraph
+checkout = git clone git@github.com:trakem2/T2-TreelineGraph
 
 [code/trakem2/T2-NIT]
-checkout = git clone git://github.com/trakem2/T2-NIT
+checkout = git clone git@github.com:trakem2/T2-NIT

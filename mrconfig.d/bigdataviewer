@@ -2,16 +2,16 @@
 # https://github.com/bigdataviewer
 
 [code/bdv/bigdataviewer-core]
-checkout = git clone git://github.com/bigdataviewer/bigdataviewer-core
+checkout = git clone git@github.com:bigdataviewer/bigdataviewer-core
 
 [code/bdv/bigdataviewer-server]
-checkout = git clone git://github.com/bigdataviewer/bigdataviewer-server
+checkout = git clone git@github.com:bigdataviewer/bigdataviewer-server
 
 [code/bdv/bigdataviewer-vistools]
-checkout = git clone git://github.com/bigdataviewer/bigdataviewer-vistools
+checkout = git clone git@github.com:bigdataviewer/bigdataviewer-vistools
 
 [code/bdv/bigdataviewer_fiji]
-checkout = git clone git://github.com/bigdataviewer/bigdataviewer_fiji
+checkout = git clone git@github.com:bigdataviewer/bigdataviewer_fiji
 
 [code/bdv/spimdata]
-checkout = git clone git://github.com/bigdataviewer/spimdata
+checkout = git clone git@github.com:bigdataviewer/spimdata

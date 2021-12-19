@@ -2,16 +2,16 @@
 # https://imagej.net/Fiji/Contribution_requirements#External_projects
 
 [code/fiji-ext/bigwarp]
-checkout = git clone git://github.com/saalfeldlab/bigwarp
+checkout = git clone git@github.com:saalfeldlab/bigwarp
 
 [code/fiji-ext/jitk-tps]
-checkout = git clone git://github.com/saalfeldlab/jitk-tps
+checkout = git clone git@github.com:saalfeldlab/jitk-tps
 
 [code/fiji-ext/mpicbg]
-checkout = git clone git://github.com/axtimwalde/mpicbg
+checkout = git clone git@github.com:axtimwalde/mpicbg
 
 [code/fiji-ext/trakem2-tps]
-checkout = git clone git://github.com/saalfeldlab/trakem2-tps
+checkout = git clone git@github.com:saalfeldlab/trakem2-tps
 
 [code/fiji-ext/z-spacing]
-checkout = git clone git://github.com/saalfeldlab/z-spacing
+checkout = git clone git@github.com:saalfeldlab/z-spacing
