@@ -4,6 +4,9 @@
 [code/bdv/bigdataviewer-core]
 checkout = git clone git@github.com:bigdataviewer/bigdataviewer-core
 
+[code/bdv/bigdataviewer-playground]
+checkout = git clone git@github.com:bigdataviewer/bigdataviewer-playground
+
 [code/bdv/bigdataviewer-server]
 checkout = git clone git@github.com:bigdataviewer/bigdataviewer-server
 
