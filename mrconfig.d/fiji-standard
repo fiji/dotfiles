@@ -229,12 +229,6 @@ checkout = git clone git@github.com:fiji/ToAST
 [code/fiji/TopoJ]
 checkout = git clone git@github.com:fiji/TopoJ
 
-[code/fiji/TrackMate]
-checkout = git clone git@github.com:fiji/TrackMate
-
-[code/fiji/TrackMate-examples]
-checkout = git clone git@github.com:fiji/TrackMate-examples
-
 [code/fiji/Trainable_Segmentation]
 checkout = git clone git@github.com:fiji/Trainable_Segmentation
 

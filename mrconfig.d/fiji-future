@@ -1,4 +1,0 @@
-# Fiji components not yet released
-
-[code/fiji/trackmate-core]
-checkout = git clone git@github.com:fiji/trackmate-core
