@@ -28,6 +28,9 @@ checkout = git clone git@github.com:trackmate-sc/TrackMate-MorphoLibJ
 [code/trackmate/TrackMate-Oneat]
 checkout = git clone git@github.com:trackmate-sc/TrackMate-Oneat
 
+[code/trackmate/TrackMate-Skeleton]
+checkout = git clone git@github.com:trackmate-sc/TrackMate-Skeleton
+
 [code/trackmate/TrackMate-StarDist]
 checkout = git clone git@github.com:trackmate-sc/TrackMate-StarDist
 
