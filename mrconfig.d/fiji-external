@@ -1,6 +1,9 @@
 # External Fiji projects
 # https://imagej.net/Fiji/Contribution_requirements#External_projects
 
+[code/fiji-ext/View5D]
+checkout = git clone git@github.com:bionanoimaging/View5D
+
 [code/fiji-ext/bigwarp]
 checkout = git clone git@github.com:saalfeldlab/bigwarp
 

@@ -250,9 +250,6 @@ checkout = git clone git@github.com:fiji/Vaa3d_Writer
 [code/fiji/Video_Editing]
 checkout = git clone git@github.com:fiji/Video_Editing
 
-[code/fiji/View5D]
-checkout = git clone git@github.com:fiji/View5D
-
 [code/fiji/Volume_Calculator]
 checkout = git clone git@github.com:fiji/Volume_Calculator
 
