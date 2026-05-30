@@ -15,3 +15,6 @@ checkout = git clone git@github.com:fiji/fiji.github.io
 
 [code/fiji/fiji-builds]
 checkout = git clone git@github.com:fiji/fiji-builds
+
+[code/fiji/fiji-links]
+checkout = git clone git@github.com:fiji/fiji-links
