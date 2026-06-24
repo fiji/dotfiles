@@ -1,6 +1,10 @@
 # TrackMate repositories
 # https://github.com/trackmate
 
+# https://sites.imagej.net/MaMuT/
+[code/trackmate/MaMuT]
+checkout = git clone git@github.com:trackmate-sc/MaMuT
+
 [code/trackmate/TrackMate]
 checkout = git clone git@github.com:trackmate-sc/TrackMate
 
