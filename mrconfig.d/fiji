@@ -1,6 +1,9 @@
 # Primary and miscellaneous repositories for the Fiji project
 # https://github.com/fiji
 
+[code/fiji/appose-fiji-plugin]
+checkout = git clone git@github.com:fiji/appose-fiji-plugin
+
 [code/fiji/dockerfiles]
 checkout = git clone git@github.com:fiji/dockerfiles
 
